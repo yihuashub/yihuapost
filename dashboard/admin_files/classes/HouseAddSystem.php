@@ -1,6 +1,6 @@
 <?php
 /**
- * Created by IntelliJ IDEA.
+ * Copyright (C) 2018 yihua. GNU General Public License
  * User: Yihua
  * Date: 10/28/2017
  * Time: 10:11 PM
