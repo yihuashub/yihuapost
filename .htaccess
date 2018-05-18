@@ -1,0 +1,10 @@
+RewriteEngine On
+
+RewriteCond %{REQUEST_URI} !^/?(dashboard)/
+RewriteCond %{REQUEST_URI} !^/?(site_files)/
+RewriteCond %{REQUEST_URI} !^/?(upload)/
+
+RewriteRule ^(.*)$ navigation.php?url=$1 [L,QSA]
+
+
+Options -Indexes
