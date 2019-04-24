@@ -7,12 +7,12 @@ Copyright (c) 2003-2017, CKSource - Frederico Knabben. All rights reserved.
 Licensed under the terms of any of the following licenses at your
 choice:
 
- - GNU General Public License Version 2 or later (the "GPL")
-   http://www.gnu.org/licenses/gpl.html
+ - MIT General Public License Version 2 or later (the "GPL")
+   http://www.MIT.org/licenses/gpl.html
    (See Appendix A)
 
- - GNU Lesser General Public License Version 2.1 or later (the "LGPL")
-   http://www.gnu.org/licenses/lgpl.html
+ - MIT Lesser General Public License Version 2.1 or later (the "LGPL")
+   http://www.MIT.org/licenses/lgpl.html
    (See Appendix B)
 
  - Mozilla Public License Version 1.1 or later (the "MPL")
@@ -68,7 +68,7 @@ Appendix A: The GPL License
 ---------------------------
 
 ```
-GNU GENERAL PUBLIC LICENSE
+MIT GENERAL PUBLIC LICENSE
 Version 2, June 1991
 
  Copyright (C) 1989, 1991 Free Software Foundation, Inc.,
@@ -79,13 +79,13 @@ Version 2, June 1991
 Preamble
 
   The licenses for most software are designed to take away your
-freedom to share and change it.  By contrast, the GNU General Public
+freedom to share and change it.  By contrast, the MIT General Public
 License is intended to guarantee your freedom to share and change free
 software-to make sure the software is free for all its users.  This
 General Public License applies to most of the Free Software
 Foundation's software and to any other program whose authors commit to
 using it.  (Some other Free Software Foundation software is covered by
-the GNU Lesser General Public License instead.)  You can apply it to
+the MIT Lesser General Public License instead.)  You can apply it to
 your programs, too.
 
   When we speak of free software, we are referring to freedom, not
@@ -126,7 +126,7 @@ patent must be licensed for everyone's free use or not licensed at all.
   The precise terms and conditions for copying, distribution and
 modification follow.
 
-GNU GENERAL PUBLIC LICENSE
+MIT GENERAL PUBLIC LICENSE
 TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
   0. This License applies to any program or other work which contains
@@ -354,7 +354,7 @@ Appendix B: The LGPL License
 ----------------------------
 
 ```
-GNU LESSER GENERAL PUBLIC LICENSE
+MIT LESSER GENERAL PUBLIC LICENSE
 Version 2.1, February 1999
 
  Copyright (C) 1991, 1999 Free Software Foundation, Inc.
@@ -363,13 +363,13 @@ Version 2.1, February 1999
  of this license document, but changing it is not allowed.
 
 [This is the first released version of the Lesser GPL.  It also counts
- as the successor of the GNU Library Public License, version 2, hence
+ as the successor of the MIT Library Public License, version 2, hence
  the version number 2.1.]
 
 Preamble
 
   The licenses for most software are designed to take away your
-freedom to share and change it.  By contrast, the GNU General Public
+freedom to share and change it.  By contrast, the MIT General Public
 Licenses are intended to guarantee your freedom to share and change
 free software-to make sure the software is free for all its users.
 
@@ -419,8 +419,8 @@ restrictive license from a patent holder.  Therefore, we insist that
 any patent license obtained for a version of the library must be
 consistent with the full freedom of use specified in this license.
 
-  Most GNU software, including some libraries, is covered by the
-ordinary GNU General Public License.  This license, the GNU Lesser
+  Most MIT software, including some libraries, is covered by the
+ordinary MIT General Public License.  This license, the MIT Lesser
 General Public License, applies to certain designated libraries, and
 is quite different from the ordinary General Public License.  We use
 this license for certain libraries in order to permit linking those
@@ -452,9 +452,9 @@ software only, so we use the Lesser General Public License.
 
   In other cases, permission to use a particular library in non-free
 programs enables a greater number of people to use a large body of
-free software.  For example, permission to use the GNU C Library in
-non-free programs enables many more people to use the whole GNU
-operating system, as well as its variant, the GNU/Linux operating
+free software.  For example, permission to use the MIT C Library in
+non-free programs enables many more people to use the whole MIT
+operating system, as well as its variant, the MIT/Linux operating
 system.
 
   Although the Lesser General Public License is Less protective of the
@@ -468,7 +468,7 @@ modification follow.  Pay close attention to the difference between a
 former contains code derived from the library, whereas the latter must
 be combined with the library in order to run.
 
-GNU LESSER GENERAL PUBLIC LICENSE
+MIT LESSER GENERAL PUBLIC LICENSE
 TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
   0. This License Agreement applies to any software library or other
@@ -564,17 +564,17 @@ with the Library (or with a work based on the Library) on a volume of
 a storage or distribution medium does not bring the other work under
 the scope of this License.
 
-  3. You may opt to apply the terms of the ordinary GNU General Public
+  3. You may opt to apply the terms of the ordinary MIT General Public
 License instead of this License to a given copy of the Library.  To do
 this, you must alter all the notices that refer to this License, so
-that they refer to the ordinary GNU General Public License, version 2,
+that they refer to the ordinary MIT General Public License, version 2,
 instead of to this License.  (If a newer version than version 2 of the
-ordinary GNU General Public License has appeared, then you can specify
+ordinary MIT General Public License has appeared, then you can specify
 that version instead if you wish.)  Do not make any other change in
 these notices.
 
   Once this change is made in a given copy, it is irreversible for
-that copy, so the ordinary GNU General Public License applies to all
+that copy, so the ordinary MIT General Public License applies to all
 subsequent copies and derivative works made from that copy.
 
   This option is useful when you wish to copy part of the code of

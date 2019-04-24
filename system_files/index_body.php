@@ -1,6 +1,6 @@
 <?php
 /**
- * Copyright (C) 2018 yihua. GNU General Public License
+ * Copyright (C) 2018-2019 yihua. MIT License
  * User: Yihua
  * Date: 2017-06-13
  * Time: 3:15 PM
